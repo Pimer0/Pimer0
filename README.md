@@ -1,16 +1,15 @@
-## Hi there 👋
+# Bienvenue sur mon profil GitHub!
 
-<!--
-**Pimer0/Pimer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis [Ton Nom], un développeur junior passionné par le développement logiciel et les nouvelles technologies.
 
-Here are some ideas to get you started:
+## 🛠 Compétences
+- Langages : Python, JavaScript, Java
+- Frameworks : React, Node.js, Spring
+- Outils : Git, Docker, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Statistiques GitHub
+![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true&theme=radical)
+
+## 📫 Me contacter
+- [LinkedIn](https://www.linkedin.com/in/ton_nom_utilisateur)
+- [Email](mailto:ton.email@example.com)
