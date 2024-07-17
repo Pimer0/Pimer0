@@ -1,3 +1,6 @@
+![Bannière](https://github.com/Pimer0/Assets/blob/main/Paul%20M%C3%A9randon.png?raw=true)
+
+
 # Bienvenue sur mon profil GitHub!
 
 Je suis Paul Mérandon, un développeur junior passionné par le développement logiciel et les nouvelles technologies.
