@@ -8,7 +8,7 @@ Je suis [Ton Nom], un développeur junior passionné par le développement logic
 - Outils : Git, Docker, VSCode
 
 ## 📊 Statistiques GitHub
-![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ton_nom_utilisateur&show_icons=true&theme=radical)
+![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Pimer0&show_icons=true&theme=radical)
 
 ## 📫 Me contacter
 - [LinkedIn](https://www.linkedin.com/in/ton_nom_utilisateur)
