@@ -71,5 +71,5 @@ Je suis Paul Mérandon, un développeur junior passionné par le développement 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pimer0&layout=donut)](https://github.com/Pimer0/github-readme-stats)
 
 ## 📫 Me contacter
-- [LinkedIn](https://www.linkedin.com/in/ton_nom_utilisateur)
-- [Email](mailto:ton.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/paul-m%C3%A9randon/)
+- [Email](mailto:paulmerandon@gmail.com)
